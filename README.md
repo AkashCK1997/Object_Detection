@@ -1,6 +1,6 @@
 # Object Detection using YOLO | Self Project
 
-### Name - Sachin Gupta (22M0542)  IITB
+### Name - Akash Karmakar (22M0549)  IITB
 
 CV Points are:
 
